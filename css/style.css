@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+.queue-card {
+  width: 500px;
+  margin: auto;
+}
+.customer-name input{
+  width: 400px;
+}
+.customer-book {
+  background-color: #CFF1D5;
+  border-left: 4px solid #4ba256;
+}
+.customer {
+  background-color: #EEF1FF;
+  border-left: 4px solid #0d6efd;
+}
