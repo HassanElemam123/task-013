@@ -15,7 +15,7 @@
 
     const customerDiv = document.createElement('div');
     customerDiv.className = 'customer p-2 rounded-2 mt-2 ps-3 fs-6';
-    customerDiv.textContent = `#${counter} - ${name}`;
+    customerDiv.textContent = `#${counter} -- ${name}`;
     customersBox.appendChild(customerDiv);
     input.value = '';
     input.focus();
